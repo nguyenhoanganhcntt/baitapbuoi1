@@ -1,0 +1,7 @@
+C:\Users\HOANG  ANH\source\repos\2280600079_NguyenHoangAnh\2280600079_NguyenHoangAnh\bin\Debug\2280600079_NguyenHoangAnh.exe.config
+C:\Users\HOANG  ANH\source\repos\2280600079_NguyenHoangAnh\2280600079_NguyenHoangAnh\bin\Debug\2280600079_NguyenHoangAnh.exe
+C:\Users\HOANG  ANH\source\repos\2280600079_NguyenHoangAnh\2280600079_NguyenHoangAnh\bin\Debug\2280600079_NguyenHoangAnh.pdb
+C:\Users\HOANG  ANH\source\repos\2280600079_NguyenHoangAnh\2280600079_NguyenHoangAnh\obj\Debug\2280600079_NguyenHoangAnh.csproj.AssemblyReference.cache
+C:\Users\HOANG  ANH\source\repos\2280600079_NguyenHoangAnh\2280600079_NguyenHoangAnh\obj\Debug\2280600079_NguyenHoangAnh.csproj.CoreCompileInputs.cache
+C:\Users\HOANG  ANH\source\repos\2280600079_NguyenHoangAnh\2280600079_NguyenHoangAnh\obj\Debug\2280600079_NguyenHoangAnh.exe
+C:\Users\HOANG  ANH\source\repos\2280600079_NguyenHoangAnh\2280600079_NguyenHoangAnh\obj\Debug\2280600079_NguyenHoangAnh.pdb
